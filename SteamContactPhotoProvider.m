@@ -1,5 +1,4 @@
 #import "SteamContactPhotoProvider.h"
-#import "Parser.h"
 #import <Foundation/Foundation.h>
 
 @implementation SteamContactPhotoProvider
