@@ -4,3 +4,7 @@
 Show Steam users' profile pictures in ShortLook when you receive a Steam notification!
 
 (This is not ShortLook itself, but a plugin for it)
+
+# Changelog
+## v1.0
+Initial Release
